@@ -1,4 +1,4 @@
-VER=		2.0.2
+VER=		2.1.0
 IMG=		plandes/docker-spark-service
 DKCMD=		docker
 
