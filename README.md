@@ -26,7 +26,7 @@ The following is an example docker compose file:
 ```yaml
 spark-service:
   container_name: spark
-  image: plandes/docker-spark-service:2.0.2
+  image: plandes/docker-spark-service:2.1.0
   hostname: spark
   ports:
     - "8080:8080"
